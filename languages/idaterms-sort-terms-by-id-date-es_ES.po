@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IDATERMS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 10:12+0000\n"
+"PO-Revision-Date: 2017-02-13 10:16+0000\n"
+"Last-Translator: admin <admin@127.0.0.1>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:86
+msgid "Sort your taxonomies by Date"
+msgstr ""
+"Ordena cronológicamente los terms de tu sitio (Etiquetas, Categorías y "
+"Taxonomías personalizadas) "
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:159
+msgid "ID / Date"
+msgstr "ID / Fecha"
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:186
+msgid ""
+"Here you can select on which ones of your taxonomies (Tags, Catgeories or "
+"Custom Taxonomies) you would like to add an extra sortable column with the "
+"ID term.</p><p>That way you can sort your terms by Date."
+msgstr ""
+"Selecciona la(s) taxonomía(s), (etiquetas, categorías o taxonomías "
+"personalizadas si las hubiera) en las que quieres que aparezca una columna "
+"extra con los ID para que puedas ordenar sus terms cronológicamente."
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:199
+#, php-format
+msgid "<p>Made with love by <a href=\"%s\">@ceslava</a>.</p>"
+msgstr "<p>Hecho con cariño por <a href=\\\"%s\\\">@ceslava</a>.</p>"
+
+#. Name of the plugin
+msgid "IDATERMS"
+msgstr "IDATERMS"
+
+#. Description of the plugin
+msgid ""
+"Add an extra column with the ID term to your taxonomies (Tags, Catgeories or "
+"Custom Taxonomies) so you can sort your terms by date."
+msgstr ""
+"Añade una columna extra con los ID a las Etiquetas, Categorías y/o "
+"Taxonomías personalizadas para poder ordenarlas cronológicamente."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://ceslava.com"
+msgstr "http://ceslava.com"
+
+#. Author of the plugin
+msgid "Cristian Eslava"
+msgstr "Cristian Eslava"

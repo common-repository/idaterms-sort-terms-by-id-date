@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-13 10:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:86
+msgid "Sort your taxonomies by Date"
+msgstr ""
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:159
+msgid "ID / Date"
+msgstr ""
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:186
+msgid ""
+"Here you can select on which ones of your taxonomies (Tags, Catgeories or "
+"Custom Taxonomies) you would like to add an extra sortable column with the "
+"ID term.</p><p>That way you can sort your terms by Date."
+msgstr ""
+
+#: admin/class-idaterms-sort-terms-by-date-admin.php:199
+#, php-format
+msgid "<p>Made with love by <a href=\"%s\">@ceslava</a>.</p>"
+msgstr ""
+
+#. Name of the plugin
+msgid "IDATERMS"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Add an extra column with the ID term to your taxonomies (Tags, Catgeories or "
+"Custom Taxonomies) so you can sort your terms by date."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://ceslava.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cristian Eslava"
+msgstr ""
